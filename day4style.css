@@ -1,0 +1,58 @@
+.top {  margin: 10px auto; 
+       width: 100%;
+       background-image: linear-gradient(to bottom right, #2437e0, #4287f5);
+       background-size: 100%;
+       padding-left: 60px; 
+       padding-right: 60px;
+       padding-bottom: 10px;
+       padding-top: 10px;}
+
+.sign { margin: 15px 25px;
+     width: 85%; 
+     max-width: 500px;
+     font-family: Source Sans Pro;
+    /* background-size: 50%;
+     background-position: 25% 25%;
+     color:#212529;*/
+ }
+ h1{font-family: Source Sans Pro;}
+fieldset{ margin: auto;
+padding-top: 10px;
+width: 25%;}
+
+input { width:100%;}
+#butt {width:10%; background-color: gray;}
+
+#remember{ width: 1rem;}
+
+.maintop{padding-left: 30px;
+  }
+
+#welcome{color: white;
+  padding-left: 42%;
+  margin-bottom: 50px;
+margin-top: 20px;}
+.pass {
+    margin-top: 0.001rem;
+    margin-bottom: 0.001rem;}
+ #butt:hover {background-color:#3ba0ff;
+ }
+ #butt{ margin-top: 10px; width: 20%}
+ #btm{  margin-top: 50px;
+margin-bottom: 50px;}
+ body {color: #212529;
+   background-image: url(background2.jpg);
+     background-size: 100%;
+        background-color: ;}
+/* form {color: #212529;}
+ .logintop{  color: #212529}*/
+
+img{ width: 20%; border-radius: 50%;
+    border: 1px solid gray;
+    margin-left: 40%;
+    margin-top: 20px;}
+
+form{ color:#3ba0ff ;}    
+
+
+
